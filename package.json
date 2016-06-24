@@ -10,7 +10,7 @@
   "bugs": {
     "url": "https://github.com/dmnt3rr0r/systemjs-only-riot/issues"
   },
-  "homepage": "https://github.com/dmnt3rr0r/systemjs-only-riot"
+  "homepage": "https://github.com/dmnt3rr0r/systemjs-only-riot",
   "jspm": {
     "registry": "github",
     "format": "esm",
