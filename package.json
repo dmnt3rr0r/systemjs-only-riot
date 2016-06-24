@@ -1,0 +1,21 @@
+{
+  "name": "systemjs-only-riot",
+  "version": "0.0.1",
+  "main": "systemjs-only-riot",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/dmnt3rr0r/systemjs-only-riot.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dmnt3rr0r/systemjs-only-riot/issues"
+  },
+  "homepage": "https://github.com/dmnt3rr0r/systemjs-only-riot"
+  "jspm": {
+    "registry": "github",
+    "format": "esm",
+    "dependencies": {
+      "riot-compiler": "npm:riot-compiler@^2.5.2"
+    }
+  }
+}
